@@ -12,7 +12,7 @@ Create an [Issue](https://github.com/win11react/store/issues/new/choose) and fol
 
 Make a pull request by editing the [store.json](https://github.com/win11react/store/blob/main/store/index.json) file
 
-Read the schema below, **BEFORE** adding any game/app element into the `store.json` file:
+Read the schema below,adding any game/app element into the `store.json` file:
 
 ```json
 {
@@ -36,10 +36,6 @@ Read the schema below, **BEFORE** adding any game/app element into the `store.js
 ```
 
 :::caution
-### PLEASE REMOVE THE COMMENTS FROM YOUR JSON, BEFORE MAKING A PULL REQUEST
-**Comments look like this: `// example text`**
-
-:::
 
 
-Add your game/app in the file (don't beautify the code, just add your game/app element) and make a pull request to get it **potentially** accepted.
+Add your game/app in the file (don't beautify the code, just add your game/app element) and make a pull request to get it accepted.
